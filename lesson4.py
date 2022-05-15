@@ -33,4 +33,8 @@ print(newDigit + digit)
 
 # также доступны функции float(), bool() для приведения в число с точкой и в булево
 
-
+# PYTHON ДОПУСКАЕТ ПЕРЕНАЗНАЧЕНИЕ ПЕРЕМЕННОЙ ЗНАЧЕНИЯ, В ТОМ ЧИСЛЕ ДРУГОГО ТИПА
+num = 3
+print(num)
+num = 'changed'
+print('changed?', num)
