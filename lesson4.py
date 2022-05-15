@@ -1,3 +1,6 @@
+# ТЕМА - ОСНОВНЫЕ ПЕРЕМЕННЫЕ В PYTHON
+
+
 # ПРИСВАИВАНИЕ ТИПА ДАННЫХ INTEGER
 number = 5
 print('res', number)
