@@ -20,3 +20,28 @@ for i in testWord:
     if(i=='e'):
         count += 1
 print(count)
+
+# ОПЕРАТОРЫ В ЦИКЛЕ
+#break - выход из цикла
+for i in range(1,11):
+    print(i)
+    if i ==5:
+        print('we are stopping')
+        break
+
+#continue - пропуск итерации
+for i in range(1, 11):
+    if i == 3:
+        print('we are excluding this')
+        continue
+    print(i)
+
+#нахождение символа
+found = None
+for i in 'other test string':
+    if i == 'g':
+        found = True
+        break
+    else:
+        found = False
+print(found)
