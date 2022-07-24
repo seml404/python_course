@@ -1,0 +1,6 @@
+text added in Pycharm!other line1
+other line2
+other line3
+other line1
+other line2
+other line3
